@@ -1,0 +1,21 @@
+#Manya Pappu
+#I like to eat
+print( """  
+M.     M
+M M. M M
+M M  M M
+M  M   M
+M      M
+M      M
+M      M
+""")
+
+print("""
+p p p p
+p      p
+p.     p
+p p p p
+p
+p
+p
+""")
